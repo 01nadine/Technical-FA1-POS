@@ -2,11 +2,19 @@
 
 <h1>Point-of-Sale System</h1>
 
-<p>Welcome to the first version of our basic POS system.</p>
+<p>Welcome to the POS system.</p>
 
 <p>
-    Use the navigation menu to view the customer accounts,
-    user accounts, and information about the system.
+    A Point-of-Sale system helps businesses process customer purchases
+    and manage sales transactions. It can record products, calculate
+    totals, accept payments, issue receipts, and organize customer,
+    inventory, and staff information.
+</p>
+
+<p>
+    This basic POS system provides simple access to customer and staff
+    account records using temporary sample data.
 </p>
 
 <?= view('partials/footer') ?>
+
