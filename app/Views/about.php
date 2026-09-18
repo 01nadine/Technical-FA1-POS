@@ -9,7 +9,7 @@
 
 <p>
     The Customer Accounts and User Accounts pages use static PHP
-    arrays as temporary data sources. No database is being used yet.
+    arrays as temporary data sources.
 </p>
 
 <?= view('partials/footer') ?>
